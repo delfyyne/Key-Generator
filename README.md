@@ -1,4 +1,6 @@
-# key-generator
+# Key Generator
+
+Live demo: https://delfyyne.github.io/Key-Generator/
 
 ## Project setup
 ```
